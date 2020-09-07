@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BUPTyouzi/BUPTyouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 柚子校友社区&公众号介绍		
+# 🌱柚子校友社区&公众号介绍		
 	主要关注职业发展，目前在全球已有92个群（覆盖校友1.1万）	
 	
 	公众号：youzizone	
