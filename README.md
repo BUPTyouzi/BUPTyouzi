@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 柚子校友社区&公众号介绍		
+# 柚子校友社区&公众号介绍		
 	主要关注职业发展，目前在全球已有92个群（覆盖校友1.1万）	
 	
 	公众号：youzizone	
 
 
 ---
-## 职业发展活动介绍
+# 职业发展活动介绍
 每周固定时间举行一次校友间的分享和讨论，主要与年轻校友讨论职业发展相关内容。
 ### 主题
 不限主题，由嘉宾自拟，可关于职业、人文、技术等。
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ---
-## 2020年校友分享数据
+# 2020年校友分享数据
 
 20200531	
 分享嘉宾：	吕尤
@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 	
 时长：	1小时分享，1小时40分QA
 	
-[公众号回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
+[吕尤分享公众号回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
 	
 
