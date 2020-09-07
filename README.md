@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 	
 时长：	1小时分享，1小时40分QA
 	
-[吕尤分享公众号回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
+[吕尤分享活动回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
 	
 
