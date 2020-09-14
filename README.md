@@ -112,6 +112,7 @@ Here are some ideas to get you started:
 [caoweiwei分享活动回顾](https://mp.weixin.qq.com/s/ZviLqznXeKT6uAJqDFcjtw)
 
 
+---
 ### 20200719	分享嘉宾：	丹蕾
 
 ### 主题：	「Brand for Success」（个人口碑经营）
@@ -125,6 +126,7 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 [丹蕾分享活动回顾](https://mp.weixin.qq.com/s/E2A94rOYxwPwb1csAjZJOQ)
 
 
+---
 ### 20200726	分享嘉宾：	杨春雨
 
 ### 主题：	「谈谈非cs专业找码农工作（转码）」
@@ -142,6 +144,7 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 [杨春雨分享活动回顾](https://mp.weixin.qq.com/s/HIasZH3X-nUO753ZMaiowA)
 
 
+---
 ### 20200802	分享嘉宾：	陶燕敏
 
 ### 主题：	「如何提高你的影响力和领导力，不断成长」
@@ -163,6 +166,7 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 [陶燕敏分享活动回顾](https://mp.weixin.qq.com/s/CYJURiL5DEmE2PMYXosv2Q)
 
 
+---
 ### 20200809	分享嘉宾：	吴筱毅
 
 ### 主题：	「惬意人生离不开古典乐」
@@ -180,6 +184,7 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 [吴筱毅分享活动回顾](https://mp.weixin.qq.com/s/RbrsMqL4Kl6JB5e9HG2eQQ)
 
 
+---
 ### 20200816	分享嘉宾：	宋雨田
 
 ### 主题：	「分享加州主要城市工作见闻和生活环境」
@@ -198,7 +203,8 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 
 [宋雨田公众号回顾](https://mp.weixin.qq.com/s/WKRnk-Mb-N7TieJamNVl_Q)
 	
-	
+
+---	
 ### 20200823	分享嘉宾：	何辙
 
 ### 主题：	「美国高校工作生活感受分享」
@@ -217,7 +223,8 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 
 [何辙分享活动回顾](https://mp.weixin.qq.com/s/4dCI0qfXxWJlKJszWWRBPg)
 	
-	
+
+---	
 ### 20200830	分享嘉宾：	张晓龙
 
 ### 主题：	「西雅图工作见闻」
@@ -231,6 +238,7 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 [张晓龙分享活动回顾](https://mp.weixin.qq.com/s/e9WahKFEnGykPp_oMreUFA)
 
 
+---
 ### 20200913	分享嘉宾：	吴冰清
 
 介绍：	
