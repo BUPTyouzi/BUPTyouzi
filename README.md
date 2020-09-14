@@ -42,6 +42,14 @@ Here are some ideas to get you started:
 
 ---
 # 2020年校友分享数据
+活动次数
+
+参与人数&平均参与人数：
+
+平均分享时长：
+
+
+精彩分享回顾
 
 ### 20200531	分享嘉宾：	吕尤
 	
@@ -52,5 +60,46 @@ Here are some ideas to get you started:
 时长：	1小时分享，1小时40分QA
 	
 [吕尤分享活动回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
-	
 
+
+### 20200607	分享嘉宾：	Jennifer
+	
+个人介绍：	北邮硕士毕业，又在美先后读了硕士和MBA，完成了从engineer到business的职业转变。
+
+主题：	「What to do in the first 100 days of a new job？」
+	
+参与人数：	30人
+	
+时长：	45分钟分享，1小时30分QA
+	
+[Jennifer分享活动回顾](https://mp.weixin.qq.com/s/858UyW1Dai6xsSE7JJ8aPQ)
+
+
+### 20200705	分享嘉宾：	Jianyong
+
+个人介绍：	97级北邮本科生，01年毕业后前往美国读CS研究生，开始从事engineer的职业，在经历很长时间的工作后希望能有新的突破，从而转为PM。
+		
+主题：	「个人从engineer转到产品的经历」
+
+参与人数：	28人
+	
+时长：	30分钟分享，1小时QA
+	
+[Jianyong分享活动回顾](https://mp.weixin.qq.com/s/UuSlOlenFpJiPKPdwV3QWg)
+
+
+分享嘉宾：	cao Wei Wei
+
+介绍：	
+83级电信，毕业于87年，89年前往加拿大渥太华读硕士。从业超过20年，有着丰富的跨国公司工作经验。
+
+91年到97年她在加拿大北方电信等几家公司从事技术。
+
+97年到2011年，在香港和上海做了差不多10个美国公司的销售，销售总监，中国区总经理等。
+
+2001年到2004年成为印度最大软件公司Infosys第一任总经理 。
+
+主题：	「如何在美国的高科技公司做一个好的sales」
+参与人数：	28
+时长：	50分钟分享，1小时40分钟QA
+[公众号回顾]	(https://mp.weixin.qq.com/s/ZviLqznXeKT6uAJqDFcjtw)
