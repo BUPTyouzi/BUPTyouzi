@@ -88,9 +88,8 @@ Here are some ideas to get you started:
 [Jianyong分享活动回顾](https://mp.weixin.qq.com/s/UuSlOlenFpJiPKPdwV3QWg)
 
 
-分享嘉宾：	Cao Wei Wei
+### 20200712	分享嘉宾：	Cao Wei Wei
 
-介绍：	
 83级电信，毕业于87年，89年前往加拿大渥太华读硕士。从业超过20年，有着丰富的跨国公司工作经验。
 
 91年到97年她在加拿大北方电信等几家公司从事技术。
@@ -105,71 +104,106 @@ Here are some ideas to get you started:
 
 时长：	50分钟分享，1小时40分钟QA
 
-[公众号回顾](https://mp.weixin.qq.com/s/ZviLqznXeKT6uAJqDFcjtw)
+[caoweiwei分享活动回顾](https://mp.weixin.qq.com/s/ZviLqznXeKT6uAJqDFcjtw)
 
 
-分享嘉宾：	丹蕾
-介绍：	IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院联合创始人和One Art Gallery画廊联合创办⼈，她平日致力于指导普通人，尤其是女性职场进入准备。
+### 20200719	分享嘉宾：	丹蕾
+
+IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院联合创始人和One Art Gallery画廊联合创办⼈，她平日致力于指导普通人，尤其是女性职场进入准备。
+
 主题：	「Brand for Success」（个人口碑经营）
+
 参与人数：	23
+
 时长：	1小时分享，1小时30分钟QA
-公众号回顾：	https://mp.weixin.qq.com/s/E2A94rOYxwPwb1csAjZJOQ
+
+[丹蕾分享活动回顾](https://mp.weixin.qq.com/s/E2A94rOYxwPwb1csAjZJOQ）
 
 
-分享嘉宾：	杨春雨
-介绍：	杨春雨，北邮国院09级，13年毕业了之后来usc读了2年ee ms。15年到18年在marvell做了三年硬件工程师。18年5月之后跳到了facebook做软件工程师。现在在ads infra做product infra。
+### 20200726	分享嘉宾：	杨春雨
+
+杨春雨，北邮国院09级，13年毕业了之后来usc读了2年ee ms。
+
+15年到18年在marvell做了三年硬件工程师。18年5月之后跳到了facebook做软件工程师。
+
+现在在ads infra做product infra。
+
 主题：	「谈谈非cs专业找码农工作（转码）」
+
 参与人数：	26
+
 时长：	40分钟分享，40分钟QA
-公众号回顾：	https://mp.weixin.qq.com/s/HIasZH3X-nUO753ZMaiowA
 
+[杨春雨分享活动回顾]（https://mp.weixin.qq.com/s/HIasZH3X-nUO753ZMaiowA）
 
-分享嘉宾：	陶燕敏
-介绍：	"陶燕敏，80届无线通信专业，毕业后在航天部读研究生并工作，之后去奥地利读博士。
+### 20200802	分享嘉宾：	陶燕敏
+陶燕敏，80届无线通信专业，毕业后在航天部读研究生并工作，之后去奥地利读博士。
+
 92 年来到硅谷，先后在Raytek, Acuson, HP, HPE/3Par工作，从事Hardware and system 研发。
+
 2005 年转为program manager，管理研发server and storage 项目。
+
 2013-2016在Santa Clara 大学兼职学习EMBA。
+
 2018年加入Nutanix as Sr. TPM 管理软件开发项目in DR and Core Dara Path。"
+
 主题：	「如何提高你的影响力和领导力，不断成长」
+
 参与人数：	23
+
 时长：	40分钟分享，1小时QA
-公众号回顾：	https://mp.weixin.qq.com/s/CYJURiL5DEmE2PMYXosv2Q
+[陶燕敏分享活动回顾](https://mp.weixin.qq.com/s/CYJURiL5DEmE2PMYXosv2Q)
 
 
-分享嘉宾：	吴筱毅
-介绍：	北京佰人科技公司联合创始人、CEO，长江商学院EMBA校友。他曾任西门子通信集团，诺基亚西门子通信副总裁，亚思雅宽带通信中国区总裁。他是通信及数据分析专家，同时也是资深古典音乐发烧友，擅长美声。
+### 20200809	分享嘉宾：	吴筱毅
+北京佰人科技公司联合创始人、CEO，长江商学院EMBA校友。他曾任西门子通信集团，诺基亚西门子通信副总裁，亚思雅宽带通信中国区总裁。他是通信及数据分析专家，同时也是资深古典音乐发烧友，擅长美声。
+
 主题：	「惬意人生离不开古典乐」
+
 参与人数：	22
-时长：	1小时分享，1小时QA
-公众号回顾：	https://mp.weixin.qq.com/s/RbrsMqL4Kl6JB5e9HG2eQQ
 
-分享嘉宾：	宋雨田
-介绍：	北邮07级国际学院，11年毕业后来到加州大学圣地亚哥分校就读通信系统专业，13年master毕业后来到Irvine的Western Digital做通信工程师，15年跳槽到Snapchat，随之也搬到洛杉矶Santa Monica一带生活，19年跳槽到Twitter(SF办公室)工作到现在，主要做大数据处理平台和广告测量。
-主题：	「分享加州主要城市工作见闻和生活环境」
-参与人数：	27
 时长：	1小时分享，1小时QA
-公众号回顾：	https://mp.weixin.qq.com/s/WKRnk-Mb-N7TieJamNVl_Q
+
+[吴筱毅分享活动回顾](https://mp.weixin.qq.com/s/RbrsMqL4Kl6JB5e9HG2eQQ)
+
+### 20200816	分享嘉宾：	宋雨田
+
+北邮07级国际学院，11年毕业后来到加州大学圣地亚哥分校就读通信系统专业。
+
+13年master毕业后来到Irvine的Western Digital做通信工程师。
+
+15年跳槽到Snapchat，随之也搬到洛杉矶Santa Monica一带生活。
+
+19年跳槽到Twitter(SF办公室)工作到现在，主要做大数据处理平台和广告测量。
+
+主题：	「分享加州主要城市工作见闻和生活环境」
+
+参与人数：	27
+
+时长：	1小时分享，1小时QA
+[公众号回顾](https://mp.weixin.qq.com/s/WKRnk-Mb-N7TieJamNVl_Q)
 	
 	
-分享嘉宾：	何辙
-介绍：	"何辙，北邮07年计算机专业本科毕业，后赴美，于09年获得哥大计算机硕士，14年获得新泽西理工计算机博士学位。
-博士毕业后在哥大医学院生物医学信息系做了一年半的博士后研究。15年开始在佛罗里达州立大学任助理教授。
-20年8月提前一年拿到终身教授并被提升为副教授。研究领域主要包括医学领域人工智能，机器学习，自然语言处理，本体术语系统。"
+### 20200823	分享嘉宾：	何辙
+何辙，北邮07年计算机专业本科毕业，后赴美，于09年获得哥大计算机硕士，14年获得新泽西理工计算机博士学位。
+
+博士毕业后在哥大医学院生物医学信息系做了一年半的博士后研究。
+
+15年开始在佛罗里达州立大学任助理教授。
+
+20年8月提前一年拿到终身教授并被提升为副教授。研究领域主要包括医学领域人工智能，机器学习，自然语言处理，本体术语系统。
+
 主题：	「美国高校工作生活感受分享」
+
 参与人数：	26
+
 时长：	40分钟分享，1小时20分钟QA
-公众号回顾：	https://mp.weixin.qq.com/s/4dCI0qfXxWJlKJszWWRBPg
 
+[何辙分享活动回顾](https://mp.weixin.qq.com/s/4dCI0qfXxWJlKJszWWRBPg)
 
-分享嘉宾：	宋雨田
-介绍：	北邮07级国际学院，11年毕业后来到加州大学圣地亚哥分校就读通信系统专业，13年master毕业后来到Irvine的Western Digital做通信工程师，15年跳槽到Snapchat，随之也搬到洛杉矶Santa Monica一带生活，19年跳槽到Twitter(SF办公室)工作到现在，主要做大数据处理平台和广告测量。
-主题：	「分享加州主要城市工作见闻和生活环境」
-参与人数：	27
-时长：	1小时分享，1小时QA
-公众号回顾：	https://mp.weixin.qq.com/s/WKRnk-Mb-N7TieJamNVl_Q
 	
 	
-分享嘉宾：	张晓龙
+### 20200830	分享嘉宾：	张晓龙
 介绍：	
 主题：	
 参与人数：	
