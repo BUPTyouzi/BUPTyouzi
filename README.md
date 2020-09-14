@@ -49,18 +49,22 @@ Here are some ideas to get you started:
 
 平均分享时长：2h（45分钟分享，1h15minQA）
 
-## 精彩分享回顾
+
+---
+# 精彩分享回顾
 
 ### 20200531	分享嘉宾：	吕尤
 
-### 主题：	「从北京到硅谷，从北邮到谷歌——如何根据环境变化调整自己。」[活动回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
-	
+### 主题：	「从北京到硅谷，从北邮到谷歌——如何根据环境变化调整自己。」
+
 参与人数：	30人
 	
 时长：	1小时分享，1小时40分QA
 	
+[吕尤活动回顾](https://mp.weixin.qq.com/s/gge7XEJIYvPtddeOnWqiJQ)
 
 
+---
 ### 20200607	分享嘉宾：	Jennifer
 	
 ### 主题：	「What to do in the first 100 days of a new job？」
@@ -74,6 +78,7 @@ Here are some ideas to get you started:
 [Jennifer分享活动回顾](https://mp.weixin.qq.com/s/858UyW1Dai6xsSE7JJ8aPQ)
 
 
+---
 ### 20200705	分享嘉宾：	Jianyong
 
 ### 主题：	「个人从engineer转到产品的经历」
@@ -87,6 +92,7 @@ Here are some ideas to get you started:
 [Jianyong分享活动回顾](https://mp.weixin.qq.com/s/UuSlOlenFpJiPKPdwV3QWg)
 
 
+---
 ### 20200712	分享嘉宾：	Cao Wei Wei
 
 ### 主题：	「如何在美国的高科技公司做一个好的sales」
