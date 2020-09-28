@@ -241,12 +241,27 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 ---
 ### 20200913	分享嘉宾：	吴冰清
 
+介绍：	北邮计算机学院10级，14-16就读于CMU MCDS项目，毕业后加入Uber旧金山办公室做Backend Engineer。2019年中开始Management track，现管理Marketplace Rides Fares组。
+
+主题：	「旧金山互联网公司从IC到Management」
+
+参与人数：	35
+
+时长：	2小时
+
+[吴冰清分享活动回顾](https://mp.weixin.qq.com/s/Zk220_xThM-zbeYdqUimpA)
+
+
+
+---
+### 20200927	分享嘉宾：  程钢
+
 介绍：	
 
 主题：	
 
-参与人数：	35
+参与人数：	47
 
 时长：	
 
-[吴冰清分享活动回顾]()
+[程钢分享活动回顾]()
