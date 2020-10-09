@@ -293,7 +293,7 @@ IT从业人员，主业是市场主管，同时是加拿⼤国家艺术研究院
 
 时长：	2小时
 
-[吴冰清分享活动回顾](https://mp.weixin.qq.com/s/Zk220_xThM-zbeYdqUimpA)
+[吴冰青分享活动回顾](https://mp.weixin.qq.com/s/Zk220_xThM-zbeYdqUimpA)
 
 
 
